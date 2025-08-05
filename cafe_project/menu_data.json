@@ -1,0 +1,33 @@
+{
+  "beverages": [
+    {
+      "id": "BEV001",
+      "name": "Espresso",
+      "price": 2.50,
+      "category": "Coffee",
+      "available": true,
+      "description": "Strong black coffee",
+      "inventory": 50
+    },
+    {
+      "id": "BEV002",
+      "name": "Cappuccino",
+      "price": 3.50,
+      "category": "Coffee",
+      "available": true,
+      "description": "Coffee with steamed milk foam",
+      "inventory": 40
+    }
+  ],
+  "food": [
+    {
+      "id": "FOOD001",
+      "name": "Croissant",
+      "price": 2.50,
+      "category": "Pastry",
+      "available": true,
+      "description": "Buttery French pastry",
+      "inventory": 40
+    }
+  ]
+}
